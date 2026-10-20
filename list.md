@@ -174,3 +174,4 @@
 - [时间日期处理开源仓库 完整源码集成各类时间格式化样例](https://github.com/fionastonesvx/NKuUed/commit/558d59356ba8ce2fd46f8ce65471e9c3338dd956)
 - [提交信息规范Conventional Commits强制落地](https://github.com/fionastonesvx/NKuUed/commit/7dff4e7f3609ffd82ee6531ce3f1e471459522d9)
 - [工业软件AI重构，老旧工业系统智能化改造](https://github.com/fionastonesvx/NKuUed/commit/1ac657be8da1b3d170ccb6c0068b942aae1295c3)
+- [http请求差异对比工具，对比两次http请求响应全部差异](https://github.com/fionastonesvx/NKuUed/commit/fc11128ee1a8e106cdb7cc138d36acf8a55e1763)

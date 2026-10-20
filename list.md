@@ -190,3 +190,4 @@
 - [外汇汇率双向波动加大企业套保需求快速上升](https://github.com/fionastonesvx/NKuUed/commit/2554697b75b2eedd70da740b7c3d816400dd7ac0)
 - [Git分支清理脚本，清理已经合并完成旧分支](https://github.com/fionastonesvx/NKuUed/commit/b7c06d55b37800e3558e85f6b5fd4c3673b712a9)
 - [markdown批量转换标题为文本，把全部标题降级转为普通段落](https://github.com/fionastonesvx/NKuUed/commit/4b2d56c9738a4dbc10d6f7fb4af70b0c9344182f)
+- [PDF扫描件离线解析引擎，还原原版排版提取图片表格无需云端](https://github.com/fionastonesvx/NKuUed/commit/8d74daaef49c22bd50990ac33a50f9bf87faa078)

@@ -18,3 +18,4 @@
 - [Docker 环境配置适配源码 完整源码容器环境兼容处理](https://github.com/fionastonesvx/NKuUed/commit/7bacc220aebf7e1d360f558c79432f2f02307bbd)
 - [极端暴雨天气城市避险科普难点](https://github.com/fionastonesvx/NKuUed/commit/b0e4278b445d97f00f9e3a09c8d38f4ffe97209a)
 - [依赖问题解决方案开源仓库 完整源码附带版本兼容方案](https://github.com/fionastonesvx/NKuUed/commit/d64d05ebb09bb9a1e59fd983abb525efccc4c824)
+- [AI驱动社交水军，批量生成虚假内容治理困境](https://github.com/fionastonesvx/NKuUed/commit/72e90564999e35eac66cfae39fd53d4e8f14787e)

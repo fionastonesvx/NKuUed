@@ -32,3 +32,4 @@
 - [普通人理财避坑需要建立哪些认知](https://github.com/fionastonesvx/NKuUed/commit/f5c5c68ff1ac6c9b638f90165ce4b698e8c1f438)
 - [碳普惠积分激励机制落地现实问题](https://github.com/fionastonesvx/NKuUed/commit/39d692460873980597d6593ff02f81367221acbb)
 - [dns解析结果对比工具，对比两组dns服务器解析返回结果](https://github.com/fionastonesvx/NKuUed/commit/0807bafc55fbfb5480d6a7ed872db510bb6a4d87)
+- [合成生物学新品不断生物基材料逐步替代传统化工品](https://github.com/fionastonesvx/NKuUed/commit/7714ad54ecab1a909fd9eb0f24158015bca7e630)

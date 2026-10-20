@@ -65,3 +65,4 @@
 - [外汇储备数据解读外部扰动之下我国外储保持韧性](https://github.com/fionastonesvx/NKuUed/commit/55de564ae62c7ea13063340f43d6b11c567570fa)
 - [虚拟电厂参与电网调度商业化模式迎来大规模验证窗口期](https://github.com/fionastonesvx/NKuUed/commit/e807352bd02cc2d82cd5fe28eb0ac84d5b064ff9)
 - [markdown批量移除html标签，清除文档内嵌html标签内容](https://github.com/fionastonesvx/NKuUed/commit/9c574854cbe43d220c49d05d8b9e9cd9fcfb7bd6)
+- [prometheus指标标签删除过滤，批量移除指标无用标签](https://github.com/fionastonesvx/NKuUed/commit/2eb00a53aaaff8a3d1828907b3cdabecca5fe95d)

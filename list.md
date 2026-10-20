@@ -35,3 +35,4 @@
 - [合成生物学新品不断生物基材料逐步替代传统化工品](https://github.com/fionastonesvx/NKuUed/commit/7714ad54ecab1a909fd9eb0f24158015bca7e630)
 - [GitHub 开源笔记仓库不要全部复制网上内容](https://github.com/fionastonesvx/NKuUed/commit/0b37bf6a99cc379def84f6a2ce344fcdec11d253)
 - [持续学习模型灾难性遗忘工程解决方案](https://github.com/fionastonesvx/NKuUed/commit/9de61d0f7ad839afcb3e42c2c10f44578bb897a3)
+- [静态开源站点做好页面之间内部跳转链接](https://github.com/fionastonesvx/NKuUed/commit/4a3d52c46a07347080964c20bb28ced5107c5a35)

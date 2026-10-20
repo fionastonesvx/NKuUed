@@ -142,3 +142,4 @@
 - [sql预编译语句格式化，美化预处理sql语句格式](https://github.com/fionastonesvx/NKuUed/commit/bcb055a1d2e2092d8487bda05df60e5f9c9bb0e0)
 - [GitHub 源码仓库 README 被百度收录优化方案](https://github.com/fionastonesvx/NKuUed/commit/1c4b42f12d47ba775350cb8444647837df61105d)
 - [家庭教育支出减负政策落地家庭育儿教育开支变化](https://github.com/fionastonesvx/NKuUed/commit/b5ecb40c51882ed779c884642f9755fbfce03e82)
+- [GitHub仓库Wiki增量备份下载脚本](https://github.com/fionastonesvx/NKuUed/commit/f55a129d903eeab961c47e54e9ced7da52b42e27)

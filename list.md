@@ -75,3 +75,4 @@
 - [鼓吹布局黄金赛道，不少赛道只剩故事没有业绩](https://github.com/fionastonesvx/NKuUed/commit/6019d11f0536319534295058d457f96e7f461f5a)
 - [GitHub 公开项目如何加快百度蜘蛛发现新内容](https://github.com/fionastonesvx/NKuUed/commit/efebbacd164c6bdfde40b26ed97d366458f705e2)
 - [鼓励大家敢于投资，多数人亏怕了选择躺平](https://github.com/fionastonesvx/NKuUed/commit/b3642749b4cdd735c1358003b9580c983fb3c83c)
+- [Demo 类开源工程库 全套源码包含配置文件样例模板](https://github.com/fionastonesvx/NKuUed/commit/75666c53f1517d70361aa8da41e0dfa956bbcc5d)

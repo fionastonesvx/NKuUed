@@ -119,3 +119,4 @@
 - [浏览器书签批量管理套件，去重分类导入导出云端同步书签](https://github.com/fionastonesvx/NKuUed/commit/09457cbdde9fcb1979e424246dedfa56b99688d1)
 - [屏幕取色增强工具，多点取色颜色格式批量转换导出色表](https://github.com/fionastonesvx/NKuUed/commit/08626b76c2f4323f975f2e32b6903bf4a4614ed2)
 - [试用期工资规定，试用期薪资不能低于什么水平](https://github.com/fionastonesvx/NKuUed/commit/c1bee28201cbe7034151509660782c8021adba7d)
+- [开源工具使用手册优化百度检索匹配度](https://github.com/fionastonesvx/NKuUed/commit/4328300d8b4dc48e9368d99e51a0cf025b7f3d19)

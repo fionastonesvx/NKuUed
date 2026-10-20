@@ -92,3 +92,4 @@
 - [本地离线图片抠图工具，无需联网批量输出透明背景](https://github.com/fionastonesvx/NKuUed/commit/51020364bc7b2186dac76892a1f56eefb62e5a64)
 - [公共数据开放加速公共数据资源赋能千行百业发展](https://github.com/fionastonesvx/NKuUed/commit/3dbf6433d2cfd0234ea00e8871089cb5713c1dc2)
 - [银行息差修复，存款利息很难重回往昔](https://github.com/fionastonesvx/NKuUed/commit/12aceeeec33b68bdfbc50519644ab11a6a5fb000)
+- [新能源车维保体系完善后市场迎来发展新机遇](https://github.com/fionastonesvx/NKuUed/commit/1b0078b5573a3aac57966d89d3f06a00e7004e97)

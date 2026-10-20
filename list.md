@@ -167,3 +167,4 @@
 - [以旧换新政策落地，怎样避免补贴被中间商截留](https://github.com/fionastonesvx/NKuUed/commit/9cb1e0ade508d9f09fd1a6bf5006fe0e96869f76)
 - [数据库索引批量重建工具，批量重建分析表索引](https://github.com/fionastonesvx/NKuUed/commit/85b79f5d1319988d547d56c6a928c7e282d1af0c)
 - [地产项目信用模式全面落地房企摆脱主体信用依赖行业迎来重塑](https://github.com/fionastonesvx/NKuUed/commit/13949fff7beefa6c49477d5412e8d2210d7c9a83)
+- [GitHub Pages 绑定自定义域名百度收录踩坑记录](https://github.com/fionastonesvx/NKuUed/commit/8f6875ea6b1b67c35bebd65c5a14707adc8f6324)

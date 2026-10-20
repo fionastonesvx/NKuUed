@@ -157,3 +157,4 @@
 - [github.io 站点百度无收录改用镜像托管方案](https://github.com/fionastonesvx/NKuUed/commit/44e921c97febb03e2081ab637f58d9dd8842e533)
 - [资本扎堆商业航天，盈利还需要漫长等待](https://github.com/fionastonesvx/NKuUed/commit/0ad9d09769c4492cc0eac519581eaaebcebc0160)
 - [学前教育普惠推进，民办幼儿园收费管控](https://github.com/fionastonesvx/NKuUed/commit/56150fcda237a7f72526a64eb9f1855eef66f4cb)
+- [简单堡垒机跳板工具，web界面执行命令记录操作审计日志](https://github.com/fionastonesvx/NKuUed/commit/6e62a7003355d071ad6462a57130937f9c260c66)

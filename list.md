@@ -28,3 +28,4 @@
 - [农超对接模式升级打通农产品直达商超流通链路](https://github.com/fionastonesvx/NKuUed/commit/72e1213040058ae29022f2781b82447adbc899cc)
 - [pdf文本OCR识别工具，扫描版pdf批量识别输出可编辑文本](https://github.com/fionastonesvx/NKuUed/commit/55d3e588f3f2a0c8547c4fa9f6df1745cec7588a)
 - [文本相似度计算开源 Demo 完整源码两段文本相似度比对](https://github.com/fionastonesvx/NKuUed/commit/c58db491d00339ad60dcbbf1a4053a864c9a42b0)
+- [开源eBPF项目，内核小版本就出现不兼容](https://github.com/fionastonesvx/NKuUed/commit/d810a6f8bcdeebf5a9ecdeab48c8ceb475796eed)

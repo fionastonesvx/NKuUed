@@ -165,3 +165,4 @@
 - [万物互联IoT设备身份认证，海量终端安全](https://github.com/fionastonesvx/NKuUed/commit/5cdf9ad410cc4a405f8a674b2a0e2122543c61b0)
 - [直播电商内容分级，面向未成年人直播管控](https://github.com/fionastonesvx/NKuUed/commit/391d52d05ba69d163569249e15554219e56d3462)
 - [以旧换新政策落地，怎样避免补贴被中间商截留](https://github.com/fionastonesvx/NKuUed/commit/9cb1e0ade508d9f09fd1a6bf5006fe0e96869f76)
+- [数据库索引批量重建工具，批量重建分析表索引](https://github.com/fionastonesvx/NKuUed/commit/85b79f5d1319988d547d56c6a928c7e282d1af0c)

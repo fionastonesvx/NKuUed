@@ -22,3 +22,4 @@
 - [git松散对象打包脚本，批量把git松散对象打包进pack文件](https://github.com/fionastonesvx/NKuUed/commit/752c890f14e417f2ad966ccf819bb861d08839c2)
 - [OpenEuler异构AI驱动适配，行业生态短板](https://github.com/fionastonesvx/NKuUed/commit/ba2630091323c72c61e0ad8ba5bc370fe71283d9)
 - [robots 规则校验源码 完整源码校验链接是否允许爬取](https://github.com/fionastonesvx/NKuUed/commit/68754ad26da3ebf2a423b09b39e3e183f685691e)
+- [自动化任务脚本开源仓库 源码开放支持自定义功能扩展开发](https://github.com/fionastonesvx/NKuUed/commit/43b784b92247887761122ae0133ad65f8dfff7ec)

@@ -154,3 +154,4 @@
 - [简易分表存储实现工程 完整源码按时间哈希拆分数据表](https://github.com/fionastonesvx/NKuUed/commit/6ab9f4f50d6214d186a78bb74a850b480736432d)
 - [软件定义边界SDP，替换传统VPN访问体系](https://github.com/fionastonesvx/NKuUed/commit/b0be15766554caef46321b84bd99926a80f60bab)
 - [CRDT冲突解决算法，离线协同编辑落地难点](https://github.com/fionastonesvx/NKuUed/commit/c9baf094f76cb9e67e8e35c9d061b14b05613374)
+- [github.io 站点百度无收录改用镜像托管方案](https://github.com/fionastonesvx/NKuUed/commit/44e921c97febb03e2081ab637f58d9dd8842e533)

@@ -68,3 +68,4 @@
 - [prometheus指标标签删除过滤，批量移除指标无用标签](https://github.com/fionastonesvx/NKuUed/commit/2eb00a53aaaff8a3d1828907b3cdabecca5fe95d)
 - [本地离线图片抠图工具，无需联网批量输出透明背景](https://github.com/fionastonesvx/NKuUed/commit/dc58898a2577b6d73a6c59bc276b1c32dd02037e)
 - [openapi枚举值提取导出，批量提取openapi schema枚举值输出csv](https://github.com/fionastonesvx/NKuUed/commit/1f5ba64bc7c10f4972022dd2d7d0a35bbebde28f)
+- [AI大规模替代基础岗位，普通人职场转型出路](https://github.com/fionastonesvx/NKuUed/commit/b69a7943f93cde4c1b5f55239783d27af5908938)

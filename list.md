@@ -111,3 +111,4 @@
 - [Markdown 采用短段落提升百度阅读友好度](https://github.com/fionastonesvx/NKuUed/commit/bde7231092f30ee7b0b9bc6679039d493435b115)
 - [本地udp调试客户端，简易udp工具收发原始报文数据](https://github.com/fionastonesvx/NKuUed/commit/5b5922d1d0cdd7845cd1e10b9bd741cf09083564)
 - [终端输出进度动画开源仓库 完整源码实现动态进度展示效果](https://github.com/fionastonesvx/NKuUed/commit/b60de3bcdf683cbea700d5207133f6acb49b9c96)
+- [GitHub 仓库子页面不被百度索引排查思路](https://github.com/fionastonesvx/NKuUed/commit/e30f1bc86047dcc41cf5a05bb7921eeaf2a0a6bd)

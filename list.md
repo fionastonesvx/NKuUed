@@ -24,3 +24,4 @@
 - [robots 规则校验源码 完整源码校验链接是否允许爬取](https://github.com/fionastonesvx/NKuUed/commit/68754ad26da3ebf2a423b09b39e3e183f685691e)
 - [自动化任务脚本开源仓库 源码开放支持自定义功能扩展开发](https://github.com/fionastonesvx/NKuUed/commit/43b784b92247887761122ae0133ad65f8dfff7ec)
 - [总想短期快速暴富，理财亏损根源就是急躁](https://github.com/fionastonesvx/NKuUed/commit/b0937470f468090b9c4586355c2b74379e322fc8)
+- [社会心理服务体系建设，全民心理健康普及工作](https://github.com/fionastonesvx/NKuUed/commit/b28502ba5d2ee02fae36dfc20d6768d3ec0a5932)

@@ -83,3 +83,4 @@
 - [vLLM Ollama Llama.cpp各类推理框架选型对比](https://github.com/fionastonesvx/NKuUed/commit/e74d046bf54d58caa631f0d37a6f928a1f398338)
 - [API滥用现象，内部API直接对外暴露安全隐患](https://github.com/fionastonesvx/NKuUed/commit/72ac805ec7c989d429ead2afd4dcf71d7a74ffdb)
 - [厄尔尼诺气候现象扰动，全球粮食价格走势引发市场关注](https://github.com/fionastonesvx/NKuUed/commit/36c8257bf3ce5d56d75bc9d03efda2ac05c43f09)
+- [github pr自动合并规则批量检测，筛查仓库pr自动合并配置状态](https://github.com/fionastonesvx/NKuUed/commit/d151e8d7c5e23e30b1727cfd2823117023dbe0c5)

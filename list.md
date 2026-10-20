@@ -30,3 +30,4 @@
 - [文本相似度计算开源 Demo 完整源码两段文本相似度比对](https://github.com/fionastonesvx/NKuUed/commit/c58db491d00339ad60dcbbf1a4053a864c9a42b0)
 - [开源eBPF项目，内核小版本就出现不兼容](https://github.com/fionastonesvx/NKuUed/commit/d810a6f8bcdeebf5a9ecdeab48c8ceb475796eed)
 - [普通人理财避坑需要建立哪些认知](https://github.com/fionastonesvx/NKuUed/commit/f5c5c68ff1ac6c9b638f90165ce4b698e8c1f438)
+- [碳普惠积分激励机制落地现实问题](https://github.com/fionastonesvx/NKuUed/commit/39d692460873980597d6593ff02f81367221acbb)

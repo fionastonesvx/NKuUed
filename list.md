@@ -159,3 +159,4 @@
 - [学前教育普惠推进，民办幼儿园收费管控](https://github.com/fionastonesvx/NKuUed/commit/56150fcda237a7f72526a64eb9f1855eef66f4cb)
 - [简单堡垒机跳板工具，web界面执行命令记录操作审计日志](https://github.com/fionastonesvx/NKuUed/commit/6e62a7003355d071ad6462a57130937f9c260c66)
 - [民营经济促进法落地观察民企经营融资环境真实变化](https://github.com/fionastonesvx/NKuUed/commit/4e631742efa603936616fe3891cc83f1f20af089)
+- [k8s配置注释批量迁移，把yaml注释迁移至新版本配置](https://github.com/fionastonesvx/NKuUed/commit/b1901051748f79f8b21d801f2bca9eb1ba6ae8a1)

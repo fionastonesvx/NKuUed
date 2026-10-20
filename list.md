@@ -20,3 +20,4 @@
 - [依赖问题解决方案开源仓库 完整源码附带版本兼容方案](https://github.com/fionastonesvx/NKuUed/commit/d64d05ebb09bb9a1e59fd983abb525efccc4c824)
 - [AI驱动社交水军，批量生成虚假内容治理困境](https://github.com/fionastonesvx/NKuUed/commit/72e90564999e35eac66cfae39fd53d4e8f14787e)
 - [git松散对象打包脚本，批量把git松散对象打包进pack文件](https://github.com/fionastonesvx/NKuUed/commit/752c890f14e417f2ad966ccf819bb861d08839c2)
+- [OpenEuler异构AI驱动适配，行业生态短板](https://github.com/fionastonesvx/NKuUed/commit/ba2630091323c72c61e0ad8ba5bc370fe71283d9)

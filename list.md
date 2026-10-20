@@ -101,3 +101,4 @@
 - [实体经济利润收缩，制约社会薪资上涨空间](https://github.com/fionastonesvx/NKuUed/commit/836f6009f0de206bd0a90c857c786a25ffd31e30)
 - [大模型输入长度自适应，超长文档自动摘要截断](https://github.com/fionastonesvx/NKuUed/commit/a7187eb475912c508c60724b95d9643dae7496e6)
 - [地方财政收支矛盾，制约公共服务项目投入力度](https://github.com/fionastonesvx/NKuUed/commit/d27f276e7ff4745a8914a52ddbc86f482847601e)
+- [业务复刻开源案例仓库 可复用源码与模块改造集成教程](https://github.com/fionastonesvx/NKuUed/commit/e61527a4011afec7f4a46861e22c1fb62ad9db57)

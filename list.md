@@ -141,3 +141,4 @@
 - [轻量高效开源工具集 完整源码搭配集成演示文档](https://github.com/fionastonesvx/NKuUed/commit/f9e54de71e44bd2d4f119712161c349961924849)
 - [sql预编译语句格式化，美化预处理sql语句格式](https://github.com/fionastonesvx/NKuUed/commit/bcb055a1d2e2092d8487bda05df60e5f9c9bb0e0)
 - [GitHub 源码仓库 README 被百度收录优化方案](https://github.com/fionastonesvx/NKuUed/commit/1c4b42f12d47ba775350cb8444647837df61105d)
+- [家庭教育支出减负政策落地家庭育儿教育开支变化](https://github.com/fionastonesvx/NKuUed/commit/b5ecb40c51882ed779c884642f9755fbfce03e82)

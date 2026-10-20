@@ -192,3 +192,4 @@
 - [markdown批量转换标题为文本，把全部标题降级转为普通段落](https://github.com/fionastonesvx/NKuUed/commit/4b2d56c9738a4dbc10d6f7fb4af70b0c9344182f)
 - [PDF扫描件离线解析引擎，还原原版排版提取图片表格无需云端](https://github.com/fionastonesvx/NKuUed/commit/8d74daaef49c22bd50990ac33a50f9bf87faa078)
 - [正则表达式批量提取文本源码 完整源码批量抓取匹配内容](https://github.com/fionastonesvx/NKuUed/commit/d2650a3c11cccebcbe9827047cff5ce59e9f05f1)
+- [面向编程人员开源工具仓库 全套源码附带样例工程排错文档](https://github.com/fionastonesvx/NKuUed/commit/79bc41b30b48e05e973f05232c98022bcbf9ba2f)

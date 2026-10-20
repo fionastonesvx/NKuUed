@@ -136,3 +136,4 @@
 - [树形结构组装遍历开源仓库 完整源码处理上下级树形数据](https://github.com/fionastonesvx/NKuUed/commit/ddeb8540660639ed92d975e4fbaa85ba8bbc67eb)
 - [制造业服务化转型，传统工厂如何拓展服务型收入](https://github.com/fionastonesvx/NKuUed/commit/a80ed02d305a18c060f9d6446ba1447d7a6f753f)
 - [居民财产性收入提升，普通家庭可参与投资渠道有限](https://github.com/fionastonesvx/NKuUed/commit/6e25703c9fd4644422f67a64130a11eb5efa0f03)
+- [无人机集群冲突规避，大模型实时空域调度](https://github.com/fionastonesvx/NKuUed/commit/f99283c54a597ac2f3f455fe93ba335d9bd75db2)

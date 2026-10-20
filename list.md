@@ -59,3 +59,4 @@
 - [种业知识产权保护基层现实情况](https://github.com/fionastonesvx/NKuUed/commit/dbe64c8608dbf6e14ebe86758af40e9b45311c14)
 - [百度抓取诊断工具查看网页实际返回内容技巧](https://github.com/fionastonesvx/NKuUed/commit/8e6a4606c9bcb4c2cd5e0589eef2157652d8fa47)
 - [遗弃宠物社会治理可行方案解析](https://github.com/fionastonesvx/NKuUed/commit/92aece8178979108781292041daceb687560ca2c)
+- [大文件分片读写开源工具 完整源码解决超大文件处理问题](https://github.com/fionastonesvx/NKuUed/commit/2c11177d93365040f0e7d6c03c7a5dc597a110e8)

@@ -80,3 +80,4 @@
 - [业务模拟开源实战案例 可复用源码与模块集成开发指南](https://github.com/fionastonesvx/NKuUed/commit/1d7a7baee2c52b812ae98e6332fe8573a590b924)
 - [Zip 包内部遍历源码 完整源码读取压缩包内部文件列表](https://github.com/fionastonesvx/NKuUed/commit/4bfe87fac47d9a43310d14b831ff33d30726ed8b)
 - [保险大模型理赔核验，非结构化定损材料处理难点](https://github.com/fionastonesvx/NKuUed/commit/0e5dd7695aca1516b8d386dadc6467da0d684585)
+- [vLLM Ollama Llama.cpp各类推理框架选型对比](https://github.com/fionastonesvx/NKuUed/commit/e74d046bf54d58caa631f0d37a6f928a1f398338)

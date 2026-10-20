@@ -69,3 +69,4 @@
 - [本地离线图片抠图工具，无需联网批量输出透明背景](https://github.com/fionastonesvx/NKuUed/commit/dc58898a2577b6d73a6c59bc276b1c32dd02037e)
 - [openapi枚举值提取导出，批量提取openapi schema枚举值输出csv](https://github.com/fionastonesvx/NKuUed/commit/1f5ba64bc7c10f4972022dd2d7d0a35bbebde28f)
 - [AI大规模替代基础岗位，普通人职场转型出路](https://github.com/fionastonesvx/NKuUed/commit/b69a7943f93cde4c1b5f55239783d27af5908938)
+- [视频音频音量自动均衡，多段视频统一音频响度消除忽大忽小](https://github.com/fionastonesvx/NKuUed/commit/ac29a539c09d7cdc5903e3901f37ca1f169b1604)

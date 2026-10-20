@@ -100,3 +100,4 @@
 - [AI制药加速落地，新药研发成本大幅下降](https://github.com/fionastonesvx/NKuUed/commit/cfd527d3f85a73c2db2dff888b121d8b6b963211)
 - [实体经济利润收缩，制约社会薪资上涨空间](https://github.com/fionastonesvx/NKuUed/commit/836f6009f0de206bd0a90c857c786a25ffd31e30)
 - [大模型输入长度自适应，超长文档自动摘要截断](https://github.com/fionastonesvx/NKuUed/commit/a7187eb475912c508c60724b95d9643dae7496e6)
+- [地方财政收支矛盾，制约公共服务项目投入力度](https://github.com/fionastonesvx/NKuUed/commit/d27f276e7ff4745a8914a52ddbc86f482847601e)

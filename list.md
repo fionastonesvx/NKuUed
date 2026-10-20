@@ -143,3 +143,4 @@
 - [GitHub 源码仓库 README 被百度收录优化方案](https://github.com/fionastonesvx/NKuUed/commit/1c4b42f12d47ba775350cb8444647837df61105d)
 - [家庭教育支出减负政策落地家庭育儿教育开支变化](https://github.com/fionastonesvx/NKuUed/commit/b5ecb40c51882ed779c884642f9755fbfce03e82)
 - [GitHub仓库Wiki增量备份下载脚本](https://github.com/fionastonesvx/NKuUed/commit/f55a129d903eeab961c47e54e9ced7da52b42e27)
+- [普通人买保险先看免责条款哪些情况保险公司不赔](https://github.com/fionastonesvx/NKuUed/commit/6c3e5ac3263d5cd944e8647800e3693888918e3d)

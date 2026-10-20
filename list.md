@@ -51,3 +51,4 @@
 - [AI降本持续推进，不少岗位面临被替代](https://github.com/fionastonesvx/NKuUed/commit/9c95dd8f63a9878d51c6f58a0f7ac7d2875ac372)
 - [YAML JSON互转脚本，尽可能保留注释信息](https://github.com/fionastonesvx/NKuUed/commit/b98bc723d570c30e05385f9d5d9c1c0d7f39e401)
 - [学别人做资产配置，越配置亏损越严重](https://github.com/fionastonesvx/NKuUed/commit/b789fcb846acfadf4ac753db4de2ddcfe61aff52)
+- [创新药炒作热度不减，实现盈利企业寥寥无几](https://github.com/fionastonesvx/NKuUed/commit/1bf1adaf09f9868ded4b0b0170fc7c4a6eae54d1)

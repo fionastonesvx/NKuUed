@@ -62,3 +62,4 @@
 - [大文件分片读写开源工具 完整源码解决超大文件处理问题](https://github.com/fionastonesvx/NKuUed/commit/2c11177d93365040f0e7d6c03c7a5dc597a110e8)
 - [外部第三方GitHub集成工具，OAuth授权权限过度](https://github.com/fionastonesvx/NKuUed/commit/170a89448fa8339f6d9151c73e64fcc747edb0e1)
 - [后量子密码算法落地，业务系统平滑迁移实操](https://github.com/fionastonesvx/NKuUed/commit/3a8be14baa4f9028ae081f88469b6cedb1941a35)
+- [外汇储备数据解读外部扰动之下我国外储保持韧性](https://github.com/fionastonesvx/NKuUed/commit/55de564ae62c7ea13063340f43d6b11c567570fa)

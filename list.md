@@ -197,3 +197,4 @@
 - [对外开放持续推进，也要应对全球贸易格局重构](https://github.com/fionastonesvx/NKuUed/commit/3b38fc4167fdabb659e5b1e80e002ac4fc543e79)
 - [长时Agent会话持久化，会话过期状态丢失问题](https://github.com/fionastonesvx/NKuUed/commit/4afe7184784ae78f028906e16bea2b28ece36347)
 - [mRNA技术产业化生物医药前沿技术迎来发展机遇](https://github.com/fionastonesvx/NKuUed/commit/736b853f935bade4c2d536904b839c01c1b84b6e)
+- [仓库迁移Gitea/Gitee，评论PR评审记录丢失](https://github.com/fionastonesvx/NKuUed/commit/d6c9230199ba0dbb2ebfe5e6587e15342d1a0a15)

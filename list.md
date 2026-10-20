@@ -13,3 +13,4 @@
 - [产业高增长，并不必然带来就业岗位同步扩张](https://github.com/fionastonesvx/NKuUed/commit/ec374bb8589a50b765105966d85fda75ae9c325e)
 - [高质量 GitHub 开源工程 源码分享搭配环境参考文档](https://github.com/fionastonesvx/NKuUed/commit/44cb339062212d631cd6bddc7e139c2726d4d21f)
 - [GPL静态链接传染性，库编译进二进制分发义务](https://github.com/fionastonesvx/NKuUed/commit/eae7f7409c94f28d965fdd06783b2bb5e6aeda86)
+- [实用开发组件开源 源码分享搭配快速集成示例](https://github.com/fionastonesvx/NKuUed/commit/fae087065245c0572272e841bf08fb9ad34f7928)

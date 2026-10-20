@@ -88,3 +88,4 @@
 - [文旅消费人山人海，红利大多流向少数群体](https://github.com/fionastonesvx/NKuUed/commit/4ef899ee8186bfccd8c47c885ba8c246b306f309)
 - [目录快照对比工具，读取两份目录快照对比文件增减变更](https://github.com/fionastonesvx/NKuUed/commit/b3f329f03c8e48414204b4a951d9284b8be04673)
 - [再婚家庭赡养义务法律边界解读](https://github.com/fionastonesvx/NKuUed/commit/efadcc646b05377142f5979acd5f8db10eb05f95)
+- [视频字幕硬编码烧录工具，把srt字幕压制嵌入视频画面](https://github.com/fionastonesvx/NKuUed/commit/cf09df1bb39aca55a19158283b844e77e9a41afa)

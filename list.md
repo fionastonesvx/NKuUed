@@ -106,3 +106,4 @@
 - [MCP模型上下文协议标准化生态适配现状](https://github.com/fionastonesvx/NKuUed/commit/51d771186a8c35365aaca20267c85a4acb735099)
 - [低空文旅规范发展，飞行观光安全管控](https://github.com/fionastonesvx/NKuUed/commit/db177af1fae313d9a3bdc9b76f62fb22a6fd65c9)
 - [中文NLP热词扩展分词包，适配网络新词提升文本识别效果](https://github.com/fionastonesvx/NKuUed/commit/b879683cc1fbc434d948145341fbed8ac5244e80)
+- [居民收入增速需要与经济总量增长保持同步](https://github.com/fionastonesvx/NKuUed/commit/d99e7058ac0dd889356f2a683d302cb4a2bea547)

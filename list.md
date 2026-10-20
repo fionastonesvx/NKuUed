@@ -134,3 +134,4 @@
 - [rtsp流录制保存脚本，定时录制监控视频分段保存文件](https://github.com/fionastonesvx/NKuUed/commit/9ca5d52c34a6a6467871c98c9a32c5616a3c62d7)
 - [口腔医疗收费不透明治理现实阻碍](https://github.com/fionastonesvx/NKuUed/commit/27c3fd4cbc2cff5d7bea1ab22cb3f0ca0fbcb949)
 - [树形结构组装遍历开源仓库 完整源码处理上下级树形数据](https://github.com/fionastonesvx/NKuUed/commit/ddeb8540660639ed92d975e4fbaa85ba8bbc67eb)
+- [制造业服务化转型，传统工厂如何拓展服务型收入](https://github.com/fionastonesvx/NKuUed/commit/a80ed02d305a18c060f9d6446ba1447d7a6f753f)

@@ -182,3 +182,4 @@
 - [程序员技术开源源码库 源码资源包含调试优化手册](https://github.com/fionastonesvx/NKuUed/commit/89236e4e7109935fd1549f4d7f5b107e9bf68f8b)
 - [新三板改革持续深化基础层创新层流动性改善工作推进情况](https://github.com/fionastonesvx/NKuUed/commit/6d9f7dc84edee67b3ab29ec6b3cfbcf758a0fe23)
 - [Lint规则冲突，不同工具格式化代码互相打架](https://github.com/fionastonesvx/NKuUed/commit/30adebb8395830982509f8ad0284f269b841a805)
+- [车载Agent风险动作拦截，驾驶安全约束体系](https://github.com/fionastonesvx/NKuUed/commit/f5926b8acfdcc43ae4b171184d39660e28730567)

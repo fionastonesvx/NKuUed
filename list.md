@@ -49,3 +49,4 @@
 - [地方化债有序推进，普通人体感不会立刻改善](https://github.com/fionastonesvx/NKuUed/commit/42b3dccf4874987bc27d22e3c96ea3c671c61f52)
 - [静态开源站点爬虫访问频率异常处理方案](https://github.com/fionastonesvx/NKuUed/commit/5bd6a8a20abb7b031d1ae9ac37d18a377b665492)
 - [AI降本持续推进，不少岗位面临被替代](https://github.com/fionastonesvx/NKuUed/commit/9c95dd8f63a9878d51c6f58a0f7ac7d2875ac372)
+- [YAML JSON互转脚本，尽可能保留注释信息](https://github.com/fionastonesvx/NKuUed/commit/b98bc723d570c30e05385f9d5d9c1c0d7f39e401)

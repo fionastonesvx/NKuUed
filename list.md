@@ -189,3 +189,4 @@
 - [README堆砌大量广告链接，README商业化乱象](https://github.com/fionastonesvx/NKuUed/commit/ca4336e364b65c84a3f318b78afd62680d4cb7d0)
 - [外汇汇率双向波动加大企业套保需求快速上升](https://github.com/fionastonesvx/NKuUed/commit/2554697b75b2eedd70da740b7c3d816400dd7ac0)
 - [Git分支清理脚本，清理已经合并完成旧分支](https://github.com/fionastonesvx/NKuUed/commit/b7c06d55b37800e3558e85f6b5fd4c3673b712a9)
+- [markdown批量转换标题为文本，把全部标题降级转为普通段落](https://github.com/fionastonesvx/NKuUed/commit/4b2d56c9738a4dbc10d6f7fb4af70b0c9344182f)

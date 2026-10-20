@@ -52,3 +52,4 @@
 - [YAML JSON互转脚本，尽可能保留注释信息](https://github.com/fionastonesvx/NKuUed/commit/b98bc723d570c30e05385f9d5d9c1c0d7f39e401)
 - [学别人做资产配置，越配置亏损越严重](https://github.com/fionastonesvx/NKuUed/commit/b789fcb846acfadf4ac753db4de2ddcfe61aff52)
 - [创新药炒作热度不减，实现盈利企业寥寥无几](https://github.com/fionastonesvx/NKuUed/commit/1bf1adaf09f9868ded4b0b0170fc7c4a6eae54d1)
+- [终端输出日志捕获工具，捕获程序终端输出保存为日志文件](https://github.com/fionastonesvx/NKuUed/commit/eae828b5712a932ceb44b38e9c61bc708bbb2157)

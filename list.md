@@ -127,3 +127,4 @@
 - [国产美妆出海提速本土品牌抢占海外消费市场](https://github.com/fionastonesvx/NKuUed/commit/5601ecc911edd6909c78dc284d85b4261a44cbe3)
 - [跨平台编译CI配置，Windows Linux macOS多系统构建](https://github.com/fionastonesvx/NKuUed/commit/6db6dcaa6dd592b62d99087eb366189057b62a74)
 - [问卷答卷数据分析平台，自动生成可视化统计图表报表](https://github.com/fionastonesvx/NKuUed/commit/4becb8f488266c70f0ff1ecb51e138fa65c781cc)
+- [招商引资政策加码各地拼抢项目对地方经济带来的改变](https://github.com/fionastonesvx/NKuUed/commit/c43c417ed3b18698b92e531cc5a7b155eebb9dda)

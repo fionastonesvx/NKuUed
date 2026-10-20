@@ -195,3 +195,4 @@
 - [面向编程人员开源工具仓库 全套源码附带样例工程排错文档](https://github.com/fionastonesvx/NKuUed/commit/79bc41b30b48e05e973f05232c98022bcbf9ba2f)
 - [Compose模板示例使用生产级默认密码，安全隐患](https://github.com/fionastonesvx/NKuUed/commit/405d606757df1fb06365d8a4a751d20e3ae0069f)
 - [对外开放持续推进，也要应对全球贸易格局重构](https://github.com/fionastonesvx/NKuUed/commit/3b38fc4167fdabb659e5b1e80e002ac4fc543e79)
+- [长时Agent会话持久化，会话过期状态丢失问题](https://github.com/fionastonesvx/NKuUed/commit/4afe7184784ae78f028906e16bea2b28ece36347)

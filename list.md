@@ -138,3 +138,4 @@
 - [居民财产性收入提升，普通家庭可参与投资渠道有限](https://github.com/fionastonesvx/NKuUed/commit/6e25703c9fd4644422f67a64130a11eb5efa0f03)
 - [无人机集群冲突规避，大模型实时空域调度](https://github.com/fionastonesvx/NKuUed/commit/f99283c54a597ac2f3f455fe93ba335d9bd75db2)
 - [面向开发者开源解决方案 源码资源含完整说明文档](https://github.com/fionastonesvx/NKuUed/commit/053351aa92f01274245c1080c7bf476cb25a887a)
+- [轻量高效开源工具集 完整源码搭配集成演示文档](https://github.com/fionastonesvx/NKuUed/commit/f9e54de71e44bd2d4f119712161c349961924849)

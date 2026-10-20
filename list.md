@@ -140,3 +140,4 @@
 - [面向开发者开源解决方案 源码资源含完整说明文档](https://github.com/fionastonesvx/NKuUed/commit/053351aa92f01274245c1080c7bf476cb25a887a)
 - [轻量高效开源工具集 完整源码搭配集成演示文档](https://github.com/fionastonesvx/NKuUed/commit/f9e54de71e44bd2d4f119712161c349961924849)
 - [sql预编译语句格式化，美化预处理sql语句格式](https://github.com/fionastonesvx/NKuUed/commit/bcb055a1d2e2092d8487bda05df60e5f9c9bb0e0)
+- [GitHub 源码仓库 README 被百度收录优化方案](https://github.com/fionastonesvx/NKuUed/commit/1c4b42f12d47ba775350cb8444647837df61105d)

@@ -44,3 +44,4 @@
 - [物价整体温和，部分民生商品成本仍在上行](https://github.com/fionastonesvx/NKuUed/commit/0511a195df2eadaf4d03505513da32506ab54bec)
 - [开源文档图片 alt 文本撰写百度 SEO 实战](https://github.com/fionastonesvx/NKuUed/commit/d76a40f31fe26f02837b17d9c3c135b25ba67373)
 - [GitHub 开源笔记图片添加 alt 属性优化搜索](https://github.com/fionastonesvx/NKuUed/commit/5f5881e39ce36b5e32f6c9bae0822b61cd92efb1)
+- [可定制实战开源资源库 全套源码含环境兼容排错完整文档](https://github.com/fionastonesvx/NKuUed/commit/a83ffe034dcd2ff3b8e3adfa070846d9633f4b7a)

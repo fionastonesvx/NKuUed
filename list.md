@@ -90,3 +90,4 @@
 - [再婚家庭赡养义务法律边界解读](https://github.com/fionastonesvx/NKuUed/commit/efadcc646b05377142f5979acd5f8db10eb05f95)
 - [视频字幕硬编码烧录工具，把srt字幕压制嵌入视频画面](https://github.com/fionastonesvx/NKuUed/commit/cf09df1bb39aca55a19158283b844e77e9a41afa)
 - [本地离线图片抠图工具，无需联网批量输出透明背景](https://github.com/fionastonesvx/NKuUed/commit/51020364bc7b2186dac76892a1f56eefb62e5a64)
+- [公共数据开放加速公共数据资源赋能千行百业发展](https://github.com/fionastonesvx/NKuUed/commit/3dbf6433d2cfd0234ea00e8871089cb5713c1dc2)

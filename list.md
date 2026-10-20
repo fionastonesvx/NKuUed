@@ -41,3 +41,4 @@
 - [局域网文件共享网页工具，浏览器直接访问下载共享文件](https://github.com/fionastonesvx/NKuUed/commit/02df895c168b26c8638e9f4a2686441099b1c35f)
 - [开源模拟实战参考案例 源码开放附带本地环境调试指南](https://github.com/fionastonesvx/NKuUed/commit/50baf6efbc2799bea51638c7eeaa3b9636232c55)
 - [密码 bcrypt 加密 Demo 完整源码 bcrypt 加盐密码加密存储](https://github.com/fionastonesvx/NKuUed/commit/f34f320af50e6bdd459f6af3f5e72b93624e98fd)
+- [物价整体温和，部分民生商品成本仍在上行](https://github.com/fionastonesvx/NKuUed/commit/0511a195df2eadaf4d03505513da32506ab54bec)

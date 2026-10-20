@@ -66,3 +66,4 @@
 - [虚拟电厂参与电网调度商业化模式迎来大规模验证窗口期](https://github.com/fionastonesvx/NKuUed/commit/e807352bd02cc2d82cd5fe28eb0ac84d5b064ff9)
 - [markdown批量移除html标签，清除文档内嵌html标签内容](https://github.com/fionastonesvx/NKuUed/commit/9c574854cbe43d220c49d05d8b9e9cd9fcfb7bd6)
 - [prometheus指标标签删除过滤，批量移除指标无用标签](https://github.com/fionastonesvx/NKuUed/commit/2eb00a53aaaff8a3d1828907b3cdabecca5fe95d)
+- [本地离线图片抠图工具，无需联网批量输出透明背景](https://github.com/fionastonesvx/NKuUed/commit/dc58898a2577b6d73a6c59bc276b1c32dd02037e)

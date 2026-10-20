@@ -19,3 +19,4 @@
 - [极端暴雨天气城市避险科普难点](https://github.com/fionastonesvx/NKuUed/commit/b0e4278b445d97f00f9e3a09c8d38f4ffe97209a)
 - [依赖问题解决方案开源仓库 完整源码附带版本兼容方案](https://github.com/fionastonesvx/NKuUed/commit/d64d05ebb09bb9a1e59fd983abb525efccc4c824)
 - [AI驱动社交水军，批量生成虚假内容治理困境](https://github.com/fionastonesvx/NKuUed/commit/72e90564999e35eac66cfae39fd53d4e8f14787e)
+- [git松散对象打包脚本，批量把git松散对象打包进pack文件](https://github.com/fionastonesvx/NKuUed/commit/752c890f14e417f2ad966ccf819bb861d08839c2)

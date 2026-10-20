@@ -105,3 +105,4 @@
 - [汽车后市场连锁化维修保养行业格局迎来重塑](https://github.com/fionastonesvx/NKuUed/commit/0c84ae6e9a10e36e6e96b916967d587755751136)
 - [MCP模型上下文协议标准化生态适配现状](https://github.com/fionastonesvx/NKuUed/commit/51d771186a8c35365aaca20267c85a4acb735099)
 - [低空文旅规范发展，飞行观光安全管控](https://github.com/fionastonesvx/NKuUed/commit/db177af1fae313d9a3bdc9b76f62fb22a6fd65c9)
+- [中文NLP热词扩展分词包，适配网络新词提升文本识别效果](https://github.com/fionastonesvx/NKuUed/commit/b879683cc1fbc434d948145341fbed8ac5244e80)

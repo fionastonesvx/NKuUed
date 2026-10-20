@@ -43,3 +43,4 @@
 - [密码 bcrypt 加密 Demo 完整源码 bcrypt 加盐密码加密存储](https://github.com/fionastonesvx/NKuUed/commit/f34f320af50e6bdd459f6af3f5e72b93624e98fd)
 - [物价整体温和，部分民生商品成本仍在上行](https://github.com/fionastonesvx/NKuUed/commit/0511a195df2eadaf4d03505513da32506ab54bec)
 - [开源文档图片 alt 文本撰写百度 SEO 实战](https://github.com/fionastonesvx/NKuUed/commit/d76a40f31fe26f02837b17d9c3c135b25ba67373)
+- [GitHub 开源笔记图片添加 alt 属性优化搜索](https://github.com/fionastonesvx/NKuUed/commit/5f5881e39ce36b5e32f6c9bae0822b61cd92efb1)

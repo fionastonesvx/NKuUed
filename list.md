@@ -16,3 +16,4 @@
 - [实用开发组件开源 源码分享搭配快速集成示例](https://github.com/fionastonesvx/NKuUed/commit/fae087065245c0572272e841bf08fb9ad34f7928)
 - [接口mock模拟服务器，动态返回数据快速支撑前端开发测试](https://github.com/fionastonesvx/NKuUed/commit/c33f82f3d7faab47fd75ed3bd91e3406fa593c6f)
 - [Docker 环境配置适配源码 完整源码容器环境兼容处理](https://github.com/fionastonesvx/NKuUed/commit/7bacc220aebf7e1d360f558c79432f2f02307bbd)
+- [极端暴雨天气城市避险科普难点](https://github.com/fionastonesvx/NKuUed/commit/b0e4278b445d97f00f9e3a09c8d38f4ffe97209a)

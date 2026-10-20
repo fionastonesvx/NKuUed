@@ -46,3 +46,4 @@
 - [GitHub 开源笔记图片添加 alt 属性优化搜索](https://github.com/fionastonesvx/NKuUed/commit/5f5881e39ce36b5e32f6c9bae0822b61cd92efb1)
 - [可定制实战开源资源库 全套源码含环境兼容排错完整文档](https://github.com/fionastonesvx/NKuUed/commit/a83ffe034dcd2ff3b8e3adfa070846d9633f4b7a)
 - [ZK‑ZK零知识证明用于AI推理结果可信验证](https://github.com/fionastonesvx/NKuUed/commit/8167fdd9af17350ac292ecb91144706912cb8f4f)
+- [地方化债有序推进，普通人体感不会立刻改善](https://github.com/fionastonesvx/NKuUed/commit/42b3dccf4874987bc27d22e3c96ea3c671c61f52)

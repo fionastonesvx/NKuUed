@@ -130,3 +130,4 @@
 - [招商引资政策加码各地拼抢项目对地方经济带来的改变](https://github.com/fionastonesvx/NKuUed/commit/c43c417ed3b18698b92e531cc5a7b155eebb9dda)
 - [ssh密钥批量管理脚本，批量导入公钥到多台主机免密登录](https://github.com/fionastonesvx/NKuUed/commit/698dad74e474172236f9d71d9749609a457fba5b)
 - [多知识库隔离，不同业务知识互相泄露防护](https://github.com/fionastonesvx/NKuUed/commit/9fee5029a994dc54d685f3e302fe80c49f2c42fe)
+- [经济的复苏，是结构性的复苏，不是全面普涨](https://github.com/fionastonesvx/NKuUed/commit/bb4a87b7ccb63fc89085c2c8875c2b63abedf40b)

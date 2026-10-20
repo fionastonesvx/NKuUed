@@ -155,3 +155,4 @@
 - [软件定义边界SDP，替换传统VPN访问体系](https://github.com/fionastonesvx/NKuUed/commit/b0be15766554caef46321b84bd99926a80f60bab)
 - [CRDT冲突解决算法，离线协同编辑落地难点](https://github.com/fionastonesvx/NKuUed/commit/c9baf094f76cb9e67e8e35c9d061b14b05613374)
 - [github.io 站点百度无收录改用镜像托管方案](https://github.com/fionastonesvx/NKuUed/commit/44e921c97febb03e2081ab637f58d9dd8842e533)
+- [资本扎堆商业航天，盈利还需要漫长等待](https://github.com/fionastonesvx/NKuUed/commit/0ad9d09769c4492cc0eac519581eaaebcebc0160)

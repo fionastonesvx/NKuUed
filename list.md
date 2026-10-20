@@ -21,3 +21,4 @@
 - [AI驱动社交水军，批量生成虚假内容治理困境](https://github.com/fionastonesvx/NKuUed/commit/72e90564999e35eac66cfae39fd53d4e8f14787e)
 - [git松散对象打包脚本，批量把git松散对象打包进pack文件](https://github.com/fionastonesvx/NKuUed/commit/752c890f14e417f2ad966ccf819bb861d08839c2)
 - [OpenEuler异构AI驱动适配，行业生态短板](https://github.com/fionastonesvx/NKuUed/commit/ba2630091323c72c61e0ad8ba5bc370fe71283d9)
+- [robots 规则校验源码 完整源码校验链接是否允许爬取](https://github.com/fionastonesvx/NKuUed/commit/68754ad26da3ebf2a423b09b39e3e183f685691e)

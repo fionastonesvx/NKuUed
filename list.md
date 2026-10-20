@@ -96,3 +96,4 @@
 - [海外需求疲软，倒逼企业更加重视国内市场挖掘](https://github.com/fionastonesvx/NKuUed/commit/d58c449803953413200bfea1cf37731778aea52f)
 - [GitHub 日志自动化开源资源 可运行源码与本地落地实施手册](https://github.com/fionastonesvx/NKuUed/commit/04c3a04ec6fb8273cfe2eec6ad9589634ee91bea)
 - [中小企业数据回暖，生存压力依旧巨大](https://github.com/fionastonesvx/NKuUed/commit/5ce6e7914849f1380f7fbb05cd0c9a4f7029cfbd)
+- [后量子时代应用改造，业务系统密码算法迁移](https://github.com/fionastonesvx/NKuUed/commit/ec568e64d777167242813f272da6fddbfc244f20)

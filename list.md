@@ -117,3 +117,4 @@
 - [GitHub Pages 自定义域名完整 DNS 配置教程](https://github.com/fionastonesvx/NKuUed/commit/5b4e04f1d0f1ed29dde52e482618f994a937a2f4)
 - [github仓库wiki页面批量导出，完整下载仓库wiki全部页面内容](https://github.com/fionastonesvx/NKuUed/commit/4fcbd3bf8644dc6f2093aeceb1f713c3ca1e0161)
 - [浏览器书签批量管理套件，去重分类导入导出云端同步书签](https://github.com/fionastonesvx/NKuUed/commit/09457cbdde9fcb1979e424246dedfa56b99688d1)
+- [屏幕取色增强工具，多点取色颜色格式批量转换导出色表](https://github.com/fionastonesvx/NKuUed/commit/08626b76c2f4323f975f2e32b6903bf4a4614ed2)

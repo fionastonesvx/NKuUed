@@ -77,3 +77,4 @@
 - [鼓励大家敢于投资，多数人亏怕了选择躺平](https://github.com/fionastonesvx/NKuUed/commit/b3642749b4cdd735c1358003b9580c983fb3c83c)
 - [Demo 类开源工程库 全套源码包含配置文件样例模板](https://github.com/fionastonesvx/NKuUed/commit/75666c53f1517d70361aa8da41e0dfa956bbcc5d)
 - [github仓库pages构建日志导出，获取github‑pages构建完整日志](https://github.com/fionastonesvx/NKuUed/commit/a9efcfe6cee743f822286767fa577fea1615b690)
+- [业务模拟开源实战案例 可复用源码与模块集成开发指南](https://github.com/fionastonesvx/NKuUed/commit/1d7a7baee2c52b812ae98e6332fe8573a590b924)

@@ -85,3 +85,4 @@
 - [厄尔尼诺气候现象扰动，全球粮食价格走势引发市场关注](https://github.com/fionastonesvx/NKuUed/commit/36c8257bf3ce5d56d75bc9d03efda2ac05c43f09)
 - [github pr自动合并规则批量检测，筛查仓库pr自动合并配置状态](https://github.com/fionastonesvx/NKuUed/commit/d151e8d7c5e23e30b1727cfd2823117023dbe0c5)
 - [量子AI混合架构，量子计算赋能大模型现实边界](https://github.com/fionastonesvx/NKuUed/commit/b5b44fa668e422d4eaa786d3e4fed86c4a2b0b35)
+- [文旅消费人山人海，红利大多流向少数群体](https://github.com/fionastonesvx/NKuUed/commit/4ef899ee8186bfccd8c47c885ba8c246b306f309)

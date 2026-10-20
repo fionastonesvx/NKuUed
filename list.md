@@ -56,3 +56,4 @@
 - [跨境电商合规趋严外贸卖家需要规避哪些经营风险](https://github.com/fionastonesvx/NKuUed/commit/931ef7b170767fb39d604bfdec6a6a1dd0f76600)
 - [Nginx访问日志分析工具，统计访问量接口排行UA地域分布](https://github.com/fionastonesvx/NKuUed/commit/f7451d385a4469ba208128bafd9f2d29718e1f85)
 - [企业AI落地组织架构，提示词工程师角色定位](https://github.com/fionastonesvx/NKuUed/commit/40c9f4602479f651528e12c7b67883f6983ed78c)
+- [种业知识产权保护基层现实情况](https://github.com/fionastonesvx/NKuUed/commit/dbe64c8608dbf6e14ebe86758af40e9b45311c14)

@@ -187,3 +187,4 @@
 - [本地图片exif元数据完整清除，彻底清空图片全部exif信息](https://github.com/fionastonesvx/NKuUed/commit/71dfdaa52331367079b634999e93dfa116383ff1)
 - [面向研发工程师开源资源 完整实现附带本地踩坑处理文档](https://github.com/fionastonesvx/NKuUed/commit/016613b0f913017267c4147c0693cb97520c33a1)
 - [README堆砌大量广告链接，README商业化乱象](https://github.com/fionastonesvx/NKuUed/commit/ca4336e364b65c84a3f318b78afd62680d4cb7d0)
+- [外汇汇率双向波动加大企业套保需求快速上升](https://github.com/fionastonesvx/NKuUed/commit/2554697b75b2eedd70da740b7c3d816400dd7ac0)

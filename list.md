@@ -129,3 +129,4 @@
 - [问卷答卷数据分析平台，自动生成可视化统计图表报表](https://github.com/fionastonesvx/NKuUed/commit/4becb8f488266c70f0ff1ecb51e138fa65c781cc)
 - [招商引资政策加码各地拼抢项目对地方经济带来的改变](https://github.com/fionastonesvx/NKuUed/commit/c43c417ed3b18698b92e531cc5a7b155eebb9dda)
 - [ssh密钥批量管理脚本，批量导入公钥到多台主机免密登录](https://github.com/fionastonesvx/NKuUed/commit/698dad74e474172236f9d71d9749609a457fba5b)
+- [多知识库隔离，不同业务知识互相泄露防护](https://github.com/fionastonesvx/NKuUed/commit/9fee5029a994dc54d685f3e302fe80c49f2c42fe)

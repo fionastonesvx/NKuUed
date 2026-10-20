@@ -73,3 +73,4 @@
 - [源码文件结尾空白清理工具，批量清除源码末尾多余空行空格](https://github.com/fionastonesvx/NKuUed/commit/65e4eade247364e0db4d144d1e8af17a34ac4cc8)
 - [社会消费品零售数据解读消费恢复结构特征与现存短板](https://github.com/fionastonesvx/NKuUed/commit/89273efb796aa60803a3b3c998940ebfcf5f5e0f)
 - [鼓吹布局黄金赛道，不少赛道只剩故事没有业绩](https://github.com/fionastonesvx/NKuUed/commit/6019d11f0536319534295058d457f96e7f461f5a)
+- [GitHub 公开项目如何加快百度蜘蛛发现新内容](https://github.com/fionastonesvx/NKuUed/commit/efebbacd164c6bdfde40b26ed97d366458f705e2)

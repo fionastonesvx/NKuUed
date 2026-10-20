@@ -139,3 +139,4 @@
 - [无人机集群冲突规避，大模型实时空域调度](https://github.com/fionastonesvx/NKuUed/commit/f99283c54a597ac2f3f455fe93ba335d9bd75db2)
 - [面向开发者开源解决方案 源码资源含完整说明文档](https://github.com/fionastonesvx/NKuUed/commit/053351aa92f01274245c1080c7bf476cb25a887a)
 - [轻量高效开源工具集 完整源码搭配集成演示文档](https://github.com/fionastonesvx/NKuUed/commit/f9e54de71e44bd2d4f119712161c349961924849)
+- [sql预编译语句格式化，美化预处理sql语句格式](https://github.com/fionastonesvx/NKuUed/commit/bcb055a1d2e2092d8487bda05df60e5f9c9bb0e0)

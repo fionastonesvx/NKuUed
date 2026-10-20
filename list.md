@@ -36,3 +36,4 @@
 - [GitHub 开源笔记仓库不要全部复制网上内容](https://github.com/fionastonesvx/NKuUed/commit/0b37bf6a99cc379def84f6a2ce344fcdec11d253)
 - [持续学习模型灾难性遗忘工程解决方案](https://github.com/fionastonesvx/NKuUed/commit/9de61d0f7ad839afcb3e42c2c10f44578bb897a3)
 - [静态开源站点做好页面之间内部跳转链接](https://github.com/fionastonesvx/NKuUed/commit/4a3d52c46a07347080964c20bb28ced5107c5a35)
+- [大模型缓存分层架构，静态动态缓存组合策略](https://github.com/fionastonesvx/NKuUed/commit/888681d27c21652740469ebe20a469cd2b5b3ced)
